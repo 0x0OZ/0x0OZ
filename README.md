@@ -1,4 +1,9 @@
+[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
+[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
+
 ### Hi there 👋
+I am a CyberSecurity researcher, web app penetration testing, smart contracts auditor, blockchain developer, web3 guide, CTF player, and CTF maker.
+
 
 <!--
 **0x0OZ/0x0OZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
